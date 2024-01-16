@@ -4,7 +4,8 @@
 ![GitHub Followers](https://img.shields.io/github/stars/M4perez?style=social)
 
 
-Soy un desarrollador trainee apasionado por la tecnología y en busca de mi primera oportunidad laboral en el área de desarrollo. Estoy dispuesto a poner en práctica y seguir aprendiendo, aportar y crecer en un ambiente colaborativo y desafiante. Me considero una persona con habilidades sólidas de resolución de problemas y análisis, atención al detalle, buena capacidad de comunicación y gestión del tiempo, y capacidad para trabajar en equipo de manera colaborativa. Además, soy adaptable y flexible para adaptarme a tecnologías cambiantes.
+Soy un apasionado de la programación con experiencia en diversos lenguajes como Python, Java y JavaScript. Mi enfoque se centra en el desarrollo de software eficiente y escalable, y he trabajado en proyectos que abarcan desde aplicaciones web hasta soluciones de análisis de datos. Mi habilidad para comprender y abordar desafíos complejos me ha permitido destacar en el diseño y la implementación de soluciones innovadoras. Constantemente busco aprender nuevas tecnologías y metodologías ágiles para mejorar mis habilidades y mantenerme actualizado en un campo tan dinámico como la programación. Además, disfruto colaborar en equipos multidisciplinarios para lograr resultados excepcionales.
+
 
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -17,3 +18,7 @@ Soy un desarrollador trainee apasionado por la tecnología y en busca de mi prim
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Contacto
+- LinkedIn: [https://www.linkedin.com/in/mauricio-p%C3%A9rez-soto-6904a4276/]
+- Correo Electrónico: [Mauricio.a.perez.s@gmail.com]
