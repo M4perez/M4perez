@@ -1,4 +1,13 @@
 ### Hola Mi Nombre Es M4Perez 👋
+### Full Stack Developer Trainee | Node | AWS | React | Docker | Javascript | Scrum
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]
+[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)]
+![GitHub Followers](https://img.shields.io/github/followers/M4perez?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/M4perez?style=social)
+Soy un desarrollador trainee apasionado por la tecnología y en busca de mi primera oportunidad laboral en el área de desarrollo. Estoy dispuesto a poner en práctica y seguir aprendiendo, aportar y crecer en un ambiente colaborativo y desafiante. Me considero una persona con habilidades sólidas de resolución de problemas y análisis, atención al detalle, buena capacidad de comunicación y gestión del tiempo, y capacidad para trabajar en equipo de manera colaborativa. Además, soy adaptable y flexible para adaptarme a tecnologías cambiantes.
+
 ## Tecnologías:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
