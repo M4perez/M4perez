@@ -2,6 +2,8 @@
 ### Full Stack Developer Trainee | Node | AWS | React | Docker | Javascript | Scrum
 ![GitHub Followers](https://img.shields.io/github/followers/M4perez?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/M4perez?style=social)
+
+
 Soy un desarrollador trainee apasionado por la tecnología y en busca de mi primera oportunidad laboral en el área de desarrollo. Estoy dispuesto a poner en práctica y seguir aprendiendo, aportar y crecer en un ambiente colaborativo y desafiante. Me considero una persona con habilidades sólidas de resolución de problemas y análisis, atención al detalle, buena capacidad de comunicación y gestión del tiempo, y capacidad para trabajar en equipo de manera colaborativa. Además, soy adaptable y flexible para adaptarme a tecnologías cambiantes.
 
 ## Tecnologías:
