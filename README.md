@@ -19,6 +19,14 @@ Soy un apasionado de la programación con experiencia en diversos lenguajes como
 </br>
 Y alguna más...
 
-## Contacto
-- LinkedIn: [https://www.linkedin.com/in/mauricio-p%C3%A9rez-soto-6904a4276/]
-- Correo Electrónico: [Mauricio.a.perez.s@gmail.com]
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+
+## Contacto y apoyo:
+
+
+[![Email](https://img.shields.io/badge/mauricio.a.perez.s@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:Mauricio.a.perez.s@gmail.com)
+</br>
+
